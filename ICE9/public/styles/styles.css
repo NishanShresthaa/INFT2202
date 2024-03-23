@@ -1,0 +1,29 @@
+/* public/styles/styles.css */
+
+/* Navbar */
+.navbar {
+  background-color: #343a40;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: #ffffff;
+}
+
+.navbar-brand:hover,
+.navbar-nav .nav-link:hover {
+  color: #ffffff;
+}
+
+/* Title */
+h1 {
+  margin-top: 50px;
+  text-align: center;
+  color: #343a40;
+}
+
+/* Body */
+body {
+  background-color: #f8f9fa;
+  padding-top: 20px;
+}

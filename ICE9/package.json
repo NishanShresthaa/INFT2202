@@ -1,0 +1,26 @@
+{
+  "name": "ice9",
+  "version": "1.0.0",
+  "description": "Perfroming MVC Checklist",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \\\\\\\\\\\\\\\"Error: no test specified\\\\\\\\\\\\\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishanShresthaa/INFT2202.git"
+  },
+  "author": "Nishan Shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NishanShresthaa/INFT2202/issues"
+  },
+  "homepage": "https://github.com/NishanShresthaa/INFT2202#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "nodemon": "^3.1.0",
+    "pug": "^3.0.2"
+  }
+}
